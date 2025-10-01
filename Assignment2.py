@@ -14,7 +14,7 @@ os.makedirs("exports", exist_ok=True)
 conn = psycopg2.connect(
     dbname='postgres',
     user='postgres',
-    password='Your_password',
+    password='732Alshyn',
     host='localhost',
     port=5433
 )
@@ -23,7 +23,7 @@ dataframes_dict = {}
 
 def save_and_report(df, filename, chart_type, description):
     """Helper function to save chart and print console report."""
-    print(f"{chart_type}: {len(df)} rows → saved to {filename}. {description}")
+    print(f"{chart_type}: {len(df)} rows  saved to {filename}. {description}")
 
 
 query_pie = """

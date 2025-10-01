@@ -11,17 +11,17 @@ The results are:
 
 ## Features
 - **Pie Chart**
-- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/pie_payment_type.png
+https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/pie_payment_type.png
 - **Bar Chart**
-- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/bar_customers_city_orders.png
+https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/bar_customers_city_orders.png
 - **Horizontal Bar Chart** 
-- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/barh_top_sellers_revenue.png
+https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/barh_top_sellers_revenue.png
 - **Line Chart**
-- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/line_monthly_sales.png  
+https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/line_monthly_sales.png  
 - **Histogram**
-- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/hist_product_description_length.png
+https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/hist_product_description_length.png
 - **Scatter Plot**
-- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/scatter_price_vs_freight.png
+https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/scatter_price_vs_freight.png
 - **Interactive Plotly Chart** – Monthly sales by top 5 product categories  
 
 pip install -r requirements.txt

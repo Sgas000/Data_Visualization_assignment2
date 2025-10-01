@@ -10,11 +10,13 @@ The results are:
 ---
 
 ## Features
-- **Pie Chart**
+## Pie Chart
 https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/pie_payment_type.png
-- **Bar Chart**
+## Bar Chart
+
 https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/bar_customers_city_orders.png
-- **Horizontal Bar Chart** 
+## Horizontal Bar Chart
+
 https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/barh_top_sellers_revenue.png
 - **Line Chart**
 https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/line_monthly_sales.png  

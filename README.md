@@ -10,12 +10,18 @@ The results are:
 ---
 
 ## Features
-- **Pie Chart** – Distribution of clients by payment type  
-- **Bar Chart** – Top 10 cities by number of unique customers with orders  
-- **Horizontal Bar Chart** – Top 10 sellers ranked by revenue  
-- **Line Chart** – Monthly total sales trend  
-- **Histogram** – Distribution of product description length  
-- **Scatter Plot** – Price vs freight value (colored by product category)  
+- **Pie Chart**
+- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/pie_payment_type.png
+- **Bar Chart**
+- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/bar_customers_city_orders.png
+- **Horizontal Bar Chart** 
+- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/barh_top_sellers_revenue.png
+- **Line Chart**
+- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/line_monthly_sales.png  
+- **Histogram**
+- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/hist_product_description_length.png
+- **Scatter Plot**
+- https://github.com/Sgas000/Data_Visualization_assignment2/blob/main/charts/scatter_price_vs_freight.png
 - **Interactive Plotly Chart** – Monthly sales by top 5 product categories  
 
 pip install -r requirements.txt
